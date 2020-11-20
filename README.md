@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi ✌️ I'm Dmitrii
 
-<!--
-**guar47/guar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**guar47/guar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍💻 Full-stack software engineer, traveler, and maker.
+
+- 💻 Mostly work with **Ruby** and **Javascript** languages. My favorite web frameworks are **Ruby on Rails** and **React.js**. I am also learning **Computer science** and **Python**.
+
+---
+
+In 2020-2021 I am making [12 startups in 12 months](https://12xstartup.com/) and share my experience on [Twitter](https://twitter.com/guar47) and [my Blog](https://dpashutskii.com) 🔥
+
+- My project #1: [Learning Story](https://getlearningstory.com) 📚
+- My project #2: ...Coming soon...
