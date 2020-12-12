@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 web developer, traveler, and indie hacker. 💻 🧳 🔥
+- 👨‍💻 web developer, traveler, and indie hacker. 🔥
 
 - 💻 Mostly work with **Ruby** and **Javascript** languages. My favorite web frameworks are **Ruby on Rails** and **React.js**. I am also learning **Computer science** and **Python**.
 
