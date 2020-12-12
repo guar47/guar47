@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 Full-stack software engineer, traveler, and maker.
+- 👨‍💻 web developer, traveler, and indie hacker. 💻 🧳 🔥
 
 - 💻 Mostly work with **Ruby** and **Javascript** languages. My favorite web frameworks are **Ruby on Rails** and **React.js**. I am also learning **Computer science** and **Python**.
 
 ---
 
-In 2020-2021 I am making [12 startups in 12 months](https://12xstartup.com/) and share my experience on [Twitter](https://twitter.com/guar47) and [my Blog](https://dpashutskii.com) 🔥
+My projects:
+- [Arcade Hub](https://arcade-hub.com) - all the Apple Arcade games in one place
+- [Learning Story](https://getlearningstory.com) - community of people who learn in public
+- Next place - Coming Soon
 
-- My project #1: [Learning Story](https://getlearningstory.com) 📚
-- My project #2: ...Coming soon...
