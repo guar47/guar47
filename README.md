@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ---
 
 My projects:
-- [Arcade Hub](https://arcade-hub.com) - all the Apple Arcade games in one place
-- [Learning Story](https://getlearningstory.com) - community of people who learn in public
-- [Personal blog](dpashutskii.com) - my personal blog where I write about development, making and everything around
-- [Travel blog](dnjourney.com) - my travel blog
-- Next place - Coming Soon
+- [Arcade Hub](https://arcade-hub.com) - all the Apple Arcade games in one place.
+- [Learning Story](https://getlearningstory.com) - community of people who learn in public.
+- [Personal blog](dpashutskii.com) - my personal blog where I write about development, making and everything around.
+- [Travel blog](dnjourney.com) - my travel blog.
+- [Next place](nextplaceto.com) - aebsite about long-term visas in different countries.
 
