@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 web developer, traveler, and indie hacker. 🔥
+- 👨‍💻 web developer, traveler, youtuber and indie hacker. 🔥
 
 - 💻 Mostly work with **Ruby** and **Javascript** languages. My favorite web frameworks are **Ruby on Rails** and **React.js**. I am also learning **Computer science** and **Python**.
 
 ---
 
 My projects:
-- [Arcade Hub](https://arcade-hub.com) - all the Apple Arcade games in one place.
-- [Learning Story](https://getlearningstory.com) - community of people who learn in public.
+- [Arcade Hub](arcade-hub.com) - all the Apple Arcade games in one place.
+- [Learning Story](getlearningstory.com) - community of people who learn in public.
 - [Personal blog](dpashutskii.com) - my personal blog where I write about development, making and everything around.
-- [Travel blog](dnjourney.com) - my travel blog.
+- [Travel blog](dnjourney.com) - my travel blog. (🙅 shuted down).
+- [YouTube channel](youtube.com/dpashutskii) - my YouTube channel about travel, programming, digital nomad and learning.
 - [Next place](nextplaceto.com) - aebsite about long-term visas in different countries.
 
