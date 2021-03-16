@@ -13,4 +13,5 @@ My projects:
 - [Travel blog](https://dnjourney.com) - my travel blog. (🙅 shut down).
 - [YouTube channel](https://youtube.com/dpashutskii) - my YouTube channel about traveling, programming, digital nomad, and learning.
 - [Next place](https://nextplaceto.com) - website about long-term visas in different countries.
+- [Mail digest (name is subject to change ⏰)] - Coming soon
 
