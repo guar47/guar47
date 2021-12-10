@@ -7,11 +7,11 @@
 ---
 
 My projects:
-- [Arcade Hub](https://arcade-hub.com) - all the Apple Arcade games in one place.
+- [Arcade Hub](https://arcade-hub.com) - all the Apple Arcade games in one place
 - [Learning Story](https://getlearningstory.com) - a community of people who learn in public. (🙅 shut down)
-- [Personal blog](https://dpashutskii.com) - my personal blog where I write about development, making, and everything around.
-- [Travel blog](https://dnjourney.com) - my travel blog. (🙅 shut down).
-- [Another travel/nomad blog](https://slowandsteadyblog.com) - my travel blog. (🙅 shut down).
-- [Next place](https://nextplaceto.com) - website about long-term visas in different countries.
+- [Personal blog](https://dpashutskii.com) - my personal blog where I write about development, making, and everything around
+- [Travel blog](https://dnjourney.com) - my travel blog. (🙅 shut down)
+- [Another travel/nomad blog](https://slowandsteadyblog.com) - travel/nomad blog
+- [Next place](https://nextplaceto.com) - website about long-term visas in different countries
 - [Taco digest](https://tacodigest.com) - personal newsletter digest created by you
 - The GameWave (Name subject to change) - ...in progress
