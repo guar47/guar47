@@ -14,4 +14,4 @@ My projects:
 - [SlowAndSteadyBlog](https://slowandsteadyblog.com) - travel/nomad blog
 - [Next place](https://nextplaceto.com) - website about long-term visas in different countries
 - [Taco digest](https://tacodigest.com) - personal newsletter digest created by you
-- The GameWave (Name subject to change) - ...in progress
+- Gamepad Story - ...in progress
