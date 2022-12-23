@@ -12,6 +12,6 @@ My projects:
 - [Personal blog](https://dpashutskii.com) - my personal blog where I write about development, making, and everything around
 - [DNJourney](https://dnjourney.com) - travel couple blog. (🙅 shut down)
 - [SlowAndSteadyBlog](https://slowandsteadyblog.com) - travel/nomad blog
-- [Next place](https://nextplaceto.com) - website about long-term visas in different countries
-- [Taco digest](https://tacodigest.com) - personal newsletter digest created by you
+- [Next place](https://nextplaceto.com) - website about long-term visas in different countries (🙅 shut down)
+- [Taco digest](https://tacodigest.com) - personal newsletter digest to follow Internet
 - SearchForPlay - ...in progress
