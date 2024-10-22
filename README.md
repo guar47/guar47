@@ -14,4 +14,4 @@ My projects:
 - [SlowAndSteadyBlog](https://slowandsteadyblog.com) - travel/nomad blog
 - [Next place](https://nextplaceto.com) - website about long-term visas in different countries (🙅 shut down)
 - [Taco digest](https://tacodigest.com) - personal newsletter digest to follow Internet
-- SearchForPlay - ...in progress
+- [SearchForPlay](https://searchtoplay.com) - discover and track the best games for your console
